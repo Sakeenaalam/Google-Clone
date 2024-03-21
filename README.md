@@ -9,7 +9,6 @@ This project replicates the Google search engine, created using HTML and CSS. Th
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
